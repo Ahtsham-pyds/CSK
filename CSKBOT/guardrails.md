@@ -21,9 +21,14 @@ How guardrails are implemented. Mostly in 3 ways.
    b. Rate Tone Of Voice
    c. Verify Coherence
 
+
+
 Some guradrails are implemented on the prompt iteself. Like the image shows
 
 <img width="508" height="339" alt="image" src="https://github.com/user-attachments/assets/3a795d9c-b444-47f3-ae2a-9f66aec5cb32" />
 
 
-![Alt text](image-1.png)
+
+Some guardrail are implemnted on the LLm output
+<img width="680" height="405" alt="image" src="https://github.com/user-attachments/assets/b9d1d2a2-a874-49f6-a155-aa26c4fc5dfc" />
+
